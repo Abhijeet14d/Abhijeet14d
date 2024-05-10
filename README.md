@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeet14d&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeet14d" /> </p>
 
-- 🔭 I’m currently working on **E-commerce Website**
+- 🔭 I’m currently working on **Web-App Development**
 
 - 🌱 I’m currently learning **MERN and DSA**
 
