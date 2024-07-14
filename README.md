@@ -29,5 +29,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet14d&" alt="abhijeet14d" /></p>
 
 <p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet14d&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet14d&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt ="abhijeet14d"/>
 </p>
