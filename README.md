@@ -1,6 +1,7 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
-<h1 align="center">Hi 👋, I'm Abhijeet Singh</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,%20Abhijeet%20Here!;Backend%20developer;DevOps%20Engineer;Web3%20Enthusiast&font=Silkscreen&center=true&width=440&height=50&color=4169E1&vCenter=true&pause=420&size=30" />
+</h1>
 
 <br/>
 - 🔭 I’m currently working on **Web-App Development**
