@@ -19,6 +19,39 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<div style="display: flex;">
+  <div style="display: flex; flex-direction: column;">
+    <br/>
+    <p align="center" style="display: flex; gap: 9px">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg" alt="C++" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="JavaScript" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" alt="Typescript" height="25" />
+    </p>
+    <p align="center" style="display: flex; gap: 9px">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg" alt="NextJs" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="NodeJS" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" alt="Express" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="TailwindCSS" height="25" />
+    </p>
+    <p align="center" style="display: flex; gap: 9px">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" alt="PostgreSQL" height="25" />
+    </p>
+    <p align="center" style="display: flex; gap: 9px">
+      <!-- Version Control -->
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git" height="25" />
+      <!-- API Testing & Development -->
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg" alt="Postman" height="25" />
+      <!-- Deployment & Hosting -->
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare2.svg" alt="Cloudflare" height="25" />
+    
+  </p>
+  </div>
+</div>
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeet14d&show_icons=true&locale=en" alt="abhijeet14d" /></p>
 
