@@ -2,6 +2,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello,%20Abhijeet%20Here!;Backend%20developer;DevOps%20Engineer;Web3%20Enthusiast&font=Silkscreen&center=true&width=440&height=50&color=4169E1&vCenter=true&pause=420&size=30" />
 </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhijeet14d&label=Profile%20views&color=0e75b6&style=flat" alt="Abhijeet14d" /> </p>
 
 <br/>
 - 🔭 I’m currently working on **Web-App Development**
