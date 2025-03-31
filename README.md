@@ -5,12 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhijeet14d&label=Profile%20views&color=0e75b6&style=flat" alt="Abhijeet14d" /> </p>
 
 <br/>
-- 🌱 I’m currently learning **React** and exploring **System Design & Cloud Technologies**
-- 🏆 **LeetCode Rating**: **1701** rating, solved **1000+** problems! Love cracking **DSA** challenges.
-- 🏆 **Code Chef**: **3⭐**   
-- 📫 How to reach me **abhijeetsinghwork.01@gmail.com**
-- 💡 **Passionate about building scalable web applications** with **clean & efficient code**    
-- ⚡ Fun fact **The term "bug" in programming originated when Grace Hopper found a literal moth causing a computer malfunction and coined the term "debugging."**
+### 🚀 About Me:<br>
+- 🌱 I’m currently learning **React** and exploring **System Design & Cloud Technologies**<br>
+- 🏆 **LeetCode Rating**: **1701** rating, solved **1000+** problems! Love cracking **DSA** challenges.<br>
+- 🏆 **Code Chef**: **3⭐**   <br>
+- 📫 How to reach me **abhijeetsinghwork.01@gmail.com**<br>
+- 💡 **Passionate about building scalable web applications** with **clean & efficient code** <br>   
+- ⚡ Fun fact **The term "bug" in programming originated when Grace Hopper found a literal moth causing a computer malfunction and coined the term "debugging."**<br>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -72,4 +73,11 @@
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Abhijeet14d&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Abhijeet14d&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<div>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <br/>
+<br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhijeet14d" alt="Abhijeet14d" /></a> </p>
 </div>
