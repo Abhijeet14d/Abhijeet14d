@@ -1,83 +1,104 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,%20Abhijeet%20Here!;Backend%20developer;DevOps%20Engineer;DSA%20Enthusiast&font=Silkscreen&center=true&width=440&height=50&color=4169E1&vCenter=true&pause=420&size=30" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C%20I'm%20Abhijeet%20Singh!;Backend%20Developer;Aspiring%20DevOps%20Engineer;DSA%20Enthusiast&font=Silkscreen&center=true&width=520&height=55&color=4169E1&vCenter=true&pause=800&size=28" />
 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhijeet14d&label=Profile%20views&color=0e75b6&style=flat" alt="Abhijeet14d" /> </p>
 
-<br/>
-### 🚀 About Me:<br>
-- 🌱 I’m currently learning **React** and exploring **System Design & Cloud Technologies**<br>
-- 🏆 **LeetCode Rating**: **1701** rating, solved **1000+** problems! Love cracking **DSA** challenges.<br>
-- 🏆 **Code Chef**: **3⭐**   <br>
-- 📫 How to reach me **abhijeetsinghwork.01@gmail.com**<br>
-- 💡 **Passionate about building scalable web applications** with **clean & efficient code** <br>   
-- ⚡ Fun fact **The term "bug" in programming originated when Grace Hopper found a literal moth causing a computer malfunction and coined the term "debugging."**<br>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhijeet-singh-394769248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijeet-singh-394769248" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Abhijeet14d/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user7127bx" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhijeet14d&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<table>
-<tr>
-<td>Languages</td>
-<td>
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-</td>
-</tr>
-<tr>
-<td>Frontend</td>
-<td>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td>Backend & Databases</td>
-<td>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td>Tools</td>
-<td>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/render-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-</td>
-</tr>
-</table>
+## 🚀 About Me
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Abhijeet14d&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Abhijeet14d&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Abhijeet14d&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+- 👨‍💻 Backend-focused developer with strong problem-solving skills  
+- 🌱 Currently learning **React**, **System Design**, and **Cloud / DevOps technologies**  
+- 🧠 **DSA Enthusiast** — consistent competitive programming practice  
+- 🏆 **LeetCode**: **1701 rating**, **1000+ problems solved**  
+- 🏆 **CodeChef**: **3⭐**  
+- 💡 Passionate about **scalable systems**, **clean architecture**, and **automation**  
+- 📫 Reach me at: **abhijeetsinghwork.01@gmail.com**
+
+> ⚡ Fun fact: The term *“bug”* in programming became popular after Grace Hopper found a real moth inside a computer.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/abhijeet-singh-394769248" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/Abhijeet14d/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white"/>
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Abhijeet14d&theme=react&border_radius=10" />
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Abhijeet14d&show_icons=true&count_private=true&theme=react&rank_icon=github&border_radius=10" />
+  <br/><br/>
+  <img width="330" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Abhijeet14d&layout=compact&theme=react&border_radius=10&langs_count=8" />
 </div>
 
-<div>
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <br/>
-<br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhijeet14d" alt="Abhijeet14d" /></a> </p>
-</div>
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhijeet14d&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🚀 Open To
+- Backend / Full-Stack Internships  
+- DevOps & Cloud-focused roles  
+- Challenging problem-solving opportunities  
+
+📌 *Always learning. Always building.*
