@@ -88,14 +88,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhijeet14d&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ### 🚀 Open To
 - Backend / Full-Stack Internships  
 - DevOps & Cloud-focused roles  
